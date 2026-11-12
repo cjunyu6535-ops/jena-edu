@@ -1,5 +1,5 @@
 ---
-name: jena-hualien-edu
+name: jena-edu
 description: Integrate Jenaplan education's four pillars (Dialogue, Work, Play, Celebration) with Taiwan's 108 Curriculum Guidelines, basic learning content (Mandarin, English, Math), and Hualien local geography, ecology, and indigenous wisdom. Use when the user asks about "耶拿for花蓮Edu", Jenaplan lesson planning, Hualien mixed-age teaching, morning circles, world-orientation PBL, maker games, or school celebrations.
 ---
 

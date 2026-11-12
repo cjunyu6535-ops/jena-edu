@@ -4,7 +4,7 @@
 
 ```
 skill_metadata:
-  name: jena-hualien-edu
+  name: jena-edu
   display_name: "🏞️ 耶拿for花蓮Edu (JenaMaster-Hualien)"
   version: "2.0.0"
   compatibility:
